@@ -11,11 +11,11 @@
 
 💬 Ask me about AWS, DevOps, Terraform, Ansible, Kubernetes, Jenkins, and CI/CD pipelines.
 
-📫 How to reach me:
+📫  Check out my work :
 
 📺 [YouTube](https://www.youtube.com/@urbaincloud/featured)
 
-🌐 [Blog] (https://www.urbaincloud.org)
+🌐 [Blog](https://urbaincloud.org/)
 
 😄 Pronouns: He/Him.
 
