@@ -13,13 +13,12 @@
 
 📫 How to reach me:
 
-📺 YouTube: @urbaincloud
+📺 [YouTube](https://www.youtube.com/@urbaincloud/featured)
 
-🌐 Blog: urbaincloud.org
+🌐 [Blog] (https://www.urbaincloud.org)
 
 😄 Pronouns: He/Him.
 
-⚡ Fun fact: I enjoy automating everything—even my coffee machine setup! ☕🤖.
 
 <!--
 **Hepher114/Hepher114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
