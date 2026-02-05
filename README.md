@@ -13,7 +13,7 @@ DevOps and Cloud Engineer with 3 years of hands-on experience designing, automat
 - Integrating security and quality checks into **CI/CD pipelines**
 - Working with monitoring and observability tools to ensure system reliability and support production-grade environments
 
-# I'm passionate about automation, continuous improvement, and building systems that reduce manual effort while increasing delivery speed and stability. I believe in making infrastructure reproducible, transparent, and resilient.
+I'm passionate about automation, continuous improvement, and building systems that reduce manual effort while increasing delivery speed and stability. I believe in making infrastructure reproducible, transparent, and resilient.
 
 ## Open to Opportunities
 
