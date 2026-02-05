@@ -1,36 +1,21 @@
+Here's a polished version for your GitHub README:
 
-👋 Hi, I’m Hepher Ossounga, a Computer Science student passionate about Cloud & DevOps!
+---
 
-🔭 I’m currently working on writing articles and building projects around AWS, DevOps, and automation.
+## About Me
 
-🌱 I’m currently learning Kubernetes, CI/CD pipelines, and advanced AWS services.
+DevOps and Cloud Engineer with 3 years of hands-on experience designing, automating, and operating cloud-native systems. I specialize in building reliable infrastructure on AWS, implementing CI/CD pipelines, and deploying containerized applications with a strong focus on scalability, security, and operational excellence.
 
-👯 I’m looking to collaborate on Cloud & DevOps projects, automation scripts, and open-source contributions.
+## My experience includes:
+- Provisioning infrastructure using **Terraform** (Infrastructure as Code)
+- Deploying and managing workloads on **Kubernetes**
+- Implementing **GitOps** workflows with **Argo CD**
+- Integrating security and quality checks into **CI/CD pipelines**
+- Working with monitoring and observability tools to ensure system reliability and support production-grade environments
 
-🤔 I’m looking for help with optimizing cloud infrastructure for scalability and cost-efficiency.
+# I'm passionate about automation, continuous improvement, and building systems that reduce manual effort while increasing delivery speed and stability. I believe in making infrastructure reproducible, transparent, and resilient.
 
-💬 Ask me about AWS, DevOps, Terraform, Ansible, Kubernetes, Jenkins, and CI/CD pipelines.
+## Open to Opportunities
 
-📫  Check out my work :
+I'm currently seeking roles as a **DevOps Engineer**, **Cloud Engineer**, **Platform Engineer**, or related positions. Always open to connecting with professionals and teams working on modern cloud platforms.
 
-📺 [YouTube](https://www.youtube.com/@urbaincloud/featured)
-
-🌐 [Blog](https://urbaincloud.org/)
-
-😄 Pronouns: He/Him.
-
-
-<!--
-**Hepher114/Hepher114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
